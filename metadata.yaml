@@ -1,0 +1,39 @@
+_repo: The-Fair-Godor-the-last-of-the-Tzins_43340
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pape, Eric
+    birthdate: 1870
+    gutenberg_agent_id: '42144'
+    url: http://www.gutenberg.org/2009/agents/42144
+covers:
+- cover_type: archival
+  image_path: 43340-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wallace, Lew
+    alias: Wallace, Lewis
+    birthdate: 1827
+    deathdate: 1905
+    gutenberg_agent_id: '836'
+    url: http://www.gutenberg.org/2009/agents/836
+    wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
+description: ''
+gutenberg_issued: '2013-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Cortés, Hernán, 1485-1547 -- Fiction'
+- !lcsh 'Montezuma II, Emperor of Mexico, approximately 1480-1520 -- Fiction'
+- !lcsh 'Aztecs -- Fiction'
+- !lcsh 'Mexico -- History -- Conquest, 1519-1540 -- Fiction'
+title: 'The Fair God; or, The Last of the ''Tzins: A Tale of the Conquest of Mexico'
+url: http://www.gutenberg.org/ebooks/43340
